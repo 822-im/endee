@@ -1,0 +1,13 @@
+Endee.io is a platform focused on vector search and artificial intelligence infrastructure.
+
+Vector search finds information based on meaning rather than exact keyword matches by using numerical representations called embeddings.
+
+Embeddings convert text into high-dimensional vectors that capture semantic relationships between pieces of information.
+
+Retrieval Augmented Generation (RAG) is an AI technique that combines information retrieval with language model generation to produce more accurate answers.
+
+RAG systems first retrieve relevant context from a knowledge base and then use a large language model to generate a response.
+
+Vector databases store embeddings and allow fast similarity search across large datasets.
+
+Semantic search improves information discovery by understanding the intent behind a user's question rather than relying only on keywords.
